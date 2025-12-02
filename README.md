@@ -1,20 +1,20 @@
-# 📚 OZ 수강생을 위한 공간!
+# OZ 수강생을 위한 공간!
 
-> 예시로만 활용해주세용~~ 🙌
+> 예시로만 활용해주세용~~
 
-## 📁 파일 목록
+## 파일 목록
 
 | 파일명 | 설명 |
 |--------|------|
 | `Database_oz_team.md` | PostgreSQL 기반 쇼핑몰 ERD 예시 |
 
-## 🎯 학습 목표
+## 학습 목표
 
 - ERD(Entity Relationship Diagram) 이해하기
 - PostgreSQL 테이블 설계 방법 익히기
 - 테이블 간 관계(1:1, 1:N, N:M) 파악하기
 
-## 💡 활용 방법
+## 활용 방법
 
 1. `Database_oz_team.md` 파일을 열어 ERD 구조 확인
 2. Mermaid 다이어그램을 [mermaid.live](https://mermaid.live)에서 시각화
